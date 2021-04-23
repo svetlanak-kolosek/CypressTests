@@ -1,0 +1,10 @@
+{
+    "Register": {
+        "Register":".btn",
+        "SignUp":".button",
+        "Email":".field",
+        "Password":".field",
+        "PasswordConf":".field",
+        "Message":".alert"
+    }
+}
